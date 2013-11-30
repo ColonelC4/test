@@ -5,8 +5,8 @@
     <packaging>war</packaging>
     <version>1.0-SNAPSHOT</version>
 
-    <groupId>com.test.test_kubity</groupId>
-    <artifactId>test_kubity</artifactId>
+    <groupId>com.test.testkubity</groupId>
+    <artifactId>testkubity</artifactId>
 
         <pluginRepositories>
         <pluginRepository>

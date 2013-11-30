@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.test.test_kubity;
+package com.test.testkubity;
 
 import com.google.appengine.api.users.User;
 import com.google.appengine.api.users.UserService;

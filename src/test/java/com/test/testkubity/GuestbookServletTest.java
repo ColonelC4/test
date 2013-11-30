@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.test.test_kubity;
+package com.test.testkubity;
 
 import static junit.framework.Assert.assertEquals;
 import static org.mockito.Mockito.mock;
